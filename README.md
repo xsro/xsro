@@ -2,8 +2,8 @@
 
 I'm a student learning code and control theory
 
-[![wechat reward code](https://img.shields.io/badge/wechat-sponsor-green?logo=WeChat)](pics/RewardCode_wechat.jpg)
-[![alipay code](https://img.shields.io/badge/alipay-sponsor-green?logo=Alipay)](pics/QRcode_alipay.jpg)
+[![wechat reward code](https://img.shields.io/badge/_-wechat-green?logo=WeChat)](pics/RewardCode_wechat.jpg)
+[![alipay code](https://img.shields.io/badge/_-alipay-blue?logo=Alipay)](pics/QRcode_alipay.jpg)
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xsro&theme=nord_bright" />
