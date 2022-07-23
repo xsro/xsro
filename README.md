@@ -1,6 +1,6 @@
 # xsro
 
-- :mortar_board: forth year student at NJUPT, college of Automation & Artificial Intelligence
+- :mortar_board: graduated BS student from NJUPT, college of Automation & Artificial Intelligence
 - :flags: interested in Control Theory, Aircraft and UAM
 - :bookmark: learnning tech for system analysis/control/simulation and web3.0
 - :earth_asia: a former geography and history enthusiast
