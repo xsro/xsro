@@ -1,6 +1,6 @@
 # xsro
 
-- :mortar_board: graduated BS student from NJUPT, college of Automation & Artificial Intelligence
+- :mortar_board: persuing MS degree under supervision of [Fan Zhang](https://drfzh.github.io/)
 - :flags: interested in Control Theory, Aircraft and UAM
 - :bookmark: learnning tech for system analysis/control/simulation and web3.0
 - :earth_asia: a former geography and history enthusiast
