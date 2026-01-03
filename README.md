@@ -1,8 +1,8 @@
 # xsro
 
-- :mortar_board: persuing MS degree under supervision of [Fan Zhang](https://drfzh.github.io/)
+- :mortar_board: studying in SYSUsz
 - :flags: interested in Control Theory, Aircraft and UAM
-- :bookmark: learnning tech for system analysis/control/simulation and web3.0
+- :bookmark: learnning tech for system analysis/control/simulation
 - :earth_asia: a former geography and history enthusiast
 - :point_right: welcome to contact me with [xsro@foxmail.com](mailto:xsro@foxmail.com)
 
