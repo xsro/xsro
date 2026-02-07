@@ -4,7 +4,7 @@
 - :flags: interested in Control Theory, Aircraft and UAM
 - :bookmark: learnning tech for system analysis/control/simulation
 - :earth_asia: a former geography and history enthusiast
-- :point_right: welcome to contact me with [xsro@foxmail.com](mailto:xsro@foxmail.com)
+- :point_right: welcome to contact me with [xsro@foxmail.com](mailto:xsro@foxmail.com) or QQ (2281536971)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=xsro&show_icons=true&theme=flag-india)](https://github.com/xsro)
